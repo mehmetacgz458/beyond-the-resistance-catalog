@@ -221,3 +221,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Veri dosyaları GitHub'a yüklenmez
+data/
